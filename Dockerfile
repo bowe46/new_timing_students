@@ -1,4 +1,4 @@
-FROM fssc/fermibottle:latest
+FROM bowe46/matteobalbo:latest
 
 ARG NB_USER=jovyan
 ARG NB_UID=1000
