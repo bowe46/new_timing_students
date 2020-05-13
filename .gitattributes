@@ -1,0 +1,2 @@
+examples/ filter=lfs diff=lfs merge=lfs -text
+examples/data/Geminga_gtis.fits filter=lfs diff=lfs merge=lfs -text
