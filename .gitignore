@@ -23,7 +23,7 @@ lib64
 /doc/build
 /.ipynb_checkpoints
 *~
-/.astropy**
+/.astropy/
 /.ipython*
 /.jupyter*
 /.local*
