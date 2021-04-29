@@ -21,9 +21,9 @@ lib64
 /run_tests
 /diagrams
 /doc/build
-#/.ipynb_checkpoints
-#*~
-#/.astropy/
-#/.ipython*
-#/.jupyter*
-#/.local*
+/.ipynb_checkpoints
+*~
+/.astropy/
+/.ipython*
+/.jupyter*
+/.local*
