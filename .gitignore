@@ -25,5 +25,5 @@ lib64
 *~
 /.astropy/
 /.ipython*
-/.jupyter*
+#/.jupyter*
 /.local*

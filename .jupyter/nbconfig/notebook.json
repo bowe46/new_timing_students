@@ -1,0 +1,17 @@
+{
+  "Cell": {
+    "cm_config": {
+      "lineNumbers": true
+    }
+  },
+  "keys": {
+    "command": {
+      "unbind": [
+        "shift-o"
+      ],
+      "bind": {
+        "cmd-shift-c": "jupyter-notebook:clear-cell-output"
+      }
+    }
+  }
+}
